@@ -1,6 +1,6 @@
-# SBSPS-Challenge-5577-OTT-Platform-Analysis-Tool
+Objective - We present a model where we will be analysing different OTT platform data like Netflix, Amazon Prime and Disney+Hotstar. Our main objective is to find the main       insights from their respective dataset and compare them against each other to help the user take a predictive guess to choose the best OTT subscription as per their basis.
 
-OTT Platform Recommendation Chatbot ( made using IBM Watson Assistant ) :
+Movie Recommendation Chatbot ( made using IBM Watson Assistant ) :
 
 Please click this link to view the chatbot - https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=905ae359-862d-478e-bddb-3ce9f64626fd&serviceInstanceID=d4edcb08-25b8-43e7-99b3-1104baddded2
 
